@@ -1,6 +1,6 @@
 # Landing-Page-Coffee-Shop
 
-# :wrench: Tecnologias Utilizadas:
+# :hammer:: Tecnologias Utilizadas:
  * `HTML` 
  * `CSS`
 

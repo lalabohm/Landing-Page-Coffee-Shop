@@ -71,8 +71,9 @@ main{
 
 .hero{
     background:#C0C0C0;
+    width: 100%;
     max-width: 2550px;
-    height: auto;
+    height: 100%;
     display: flex;
     flex-direction: column;
     position: relative;

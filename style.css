@@ -79,9 +79,8 @@ main{
     position: relative;
     align-items: center;
     justify-content: flex-start;
-    gap: 2rem;
+    gap: 6rem;
     padding: 0rem 2rem;
-    margin-bottom: 0; 
 }
 
 .hero-conteudo{

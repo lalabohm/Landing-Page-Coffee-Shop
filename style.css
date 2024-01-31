@@ -73,7 +73,7 @@ main{
     background:#C0C0C0;
     width: 100vw; 
     max-width: 2550px;
-    height: auto;
+    height:100vh;
     display: flex;
     flex-direction: column;
     position: relative;

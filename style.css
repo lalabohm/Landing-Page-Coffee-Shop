@@ -165,7 +165,7 @@ main{
     align-items: center;
     gap: 2rem;
     background-color: #C0C0C0;
-    font-family: Dancing Script;
+    font-family: 'Dancing Script', cursive;
     font-size: 25px;
     font-weight: 400;
     text-transform: uppercase;

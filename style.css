@@ -71,6 +71,7 @@ main{
 
 .hero{
     background:#C0C0C0;
+    width: 100vw; 
     max-width: 2550px;
     height: auto;
     display: flex;

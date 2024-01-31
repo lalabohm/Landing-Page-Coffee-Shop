@@ -5,7 +5,7 @@
 </p>
 
 #
-- Meu amor por Café, Matcha e programação me levaram a criar esse site.
+- Meu amor por Café, Matcha e programação me levaram a construir o visual desse site.
 
 #
 

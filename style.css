@@ -282,8 +282,8 @@ h2{
 }
 
 .hero-imagens-container > figure {
-    flex: 0 0 auto; 
-    width: 700px;
+    flex: 1 1 auto; 
+    width: 100%;
 }
 
 .hero-imagens-container > figure >  figcaption {
@@ -298,15 +298,22 @@ h2{
 
 .hero-imagens-container > figure > img {
     display: block;
-    width: 80%;
+    width: 100%;
     max-width: 600px; 
-    height: 700px; 
+    height: auto; 
     margin:25%;
     margin-top: auto;
     margin-bottom: 20px;
+    object-fit: cover;
     border-radius: 1rem;
-    border: 30px solid rgb(201, 211, 201);
+    border: 5px solid rgb(201, 211, 201);
     object-fit: cover; 
+}
+
+@media screen and (max-width: 600px) {
+    .hero-imagens-container > figure > img {
+        height: 300px; 
+    }
 }
 
 .hero-imagens-container > figure > img:hover {

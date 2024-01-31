@@ -163,11 +163,11 @@ main{
     top: -20px; 
     justify-content: space-between;
     align-items: center;
-    gap: 50rem;
+    gap: 2rem;
     background-color: #C0C0C0;
     font-family: Dancing Script;
     font-size: 25px;
-    font-weight: 800;
+    font-weight: 400;
     text-transform: uppercase;
   }
   

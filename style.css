@@ -160,7 +160,7 @@ main{
 .detail-item {
     display: flex;
     position: relative; 
-    top: -20px; 
+    top: -40px; 
     justify-content: space-between;
     align-items: center;
     gap: 2rem;

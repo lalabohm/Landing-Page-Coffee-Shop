@@ -89,7 +89,7 @@ main{
     flex-direction: row;
     align-items: center; 
     justify-content: center; 
-    gap: 6rem;
+    gap: 4rem;
 }
 
 .destaque{

@@ -303,8 +303,8 @@ h2{
 .hero-imagens-container > figure > img {
     display: block;
     width: 90vw;
-    max-width: 600px;
-    height: 500px auto; 
+    max-width: 300px;
+    height: 600px; 
     margin: 5%;
     margin-top: auto;
     margin-bottom: 20px;

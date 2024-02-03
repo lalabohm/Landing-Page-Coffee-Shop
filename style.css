@@ -88,7 +88,7 @@ main{
     flex-direction: row;
     align-items: center; 
     justify-content: center; 
-    gap: 3rem;
+    gap: 6rem;
 }
 
 .destaque{
@@ -162,7 +162,7 @@ main{
 .detail-item {
     display: flex;
     position: relative; 
-    top: -100px; 
+    top: -200px; 
     justify-content: space-between;
     align-items: center;
     gap: 2rem;
